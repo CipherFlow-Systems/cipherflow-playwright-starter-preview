@@ -5,7 +5,8 @@
 ---
 
 ### 📦 Get the Full Production Package
-[![Buy on Gumroad](https://img.shields.io/badge/Buy_Full_Kit-Gumroad-FF90E8?style=for-the-badge&logo=gumroad)](YOUR_GUMROAD_PRODUCT_LINK_HERE)
+
+[<img src="https://img.shields.io/badge/Buy_Full_Kit-Gumroad-FF90E8?style=for-the-badge&logo=gumroad" alt="Buy on Gumroad" />](https://cipherflow0.gumroad.com/l/oeggat?wanted=true)
 
 > **License:** Commercial (Use across unlimited personal & team projects)
 
@@ -39,9 +40,6 @@ cipherflow-playwright-starter/
 │   └── test-pipeline.yml
 ├── playwright.config.ts         # Multi-worker Playwright Config
 └── bdd.config.ts                # BDD Compiler & Runner Config
-# cipherflow-playwright-starter-preview
-
-
 
 ⚡ Quickstart Preview
 # 1. Install dependencies
@@ -53,9 +51,6 @@ npx playwright test
 # 3. Run BDD Gherkin scenarios in parallel
 npm run bdd
 
-[![Buy on Gumroad](https://img.shields.io/badge/Buy_Full_Kit-Gumroad-FF90E8?style=for-the-badge&logo=gumroad)](https://cipherflow0.gumroad.com/l/oeggat?wanted=true)
+💳 Click Here to Buy & Download Full Kit on Gumroad
 
-
-
-### 💳 [Get Instant Access to the Full .zip Package on Gumroad](https://cipherflow0.gumroad.com/l/oeggat?wanted=true)
-
+---
