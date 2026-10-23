@@ -53,6 +53,9 @@ npx playwright test
 # 3. Run BDD Gherkin scenarios in parallel
 npm run bdd
 
+[![Buy on Gumroad](https://img.shields.io/badge/Buy_Full_Kit-Gumroad-FF90E8?style=for-the-badge&logo=gumroad)](https://cipherflow0.gumroad.com/l/oeggat?wanted=true)
+
+
 
 ### 💳 [Get Instant Access to the Full .zip Package on Gumroad](https://cipherflow0.gumroad.com/l/oeggat?wanted=true)
 
