@@ -40,3 +40,19 @@ cipherflow-playwright-starter/
 ├── playwright.config.ts         # Multi-worker Playwright Config
 └── bdd.config.ts                # BDD Compiler & Runner Config
 # cipherflow-playwright-starter-preview
+
+
+
+⚡ Quickstart Preview
+# 1. Install dependencies
+npm install
+
+# 2. Run standard Playwright tests
+npx playwright test
+
+# 3. Run BDD Gherkin scenarios in parallel
+npm run bdd
+
+
+💳 Get Instant Access to the Full .zip Package on Gumroad
+https://cipherflow0.gumroad.com/l/oeggat?wanted=true
